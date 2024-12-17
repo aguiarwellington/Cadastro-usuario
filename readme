@@ -1,0 +1,12 @@
+npm create vite@latest
+
+npm rum dev 
+
+caso tenha erro de proxy: delete o node_modelu : 
+npm config get proxy
+npm config get https-proxy
+
+depois
+npm install
+
+ npm install axios 
